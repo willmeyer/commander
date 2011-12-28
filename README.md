@@ -9,6 +9,7 @@ to allow users to execute them.  Put differently, this is a flexible way to defi
 lend themselves to a command-line interface.
 
 Commands can be executed via several interfaces, including:
+
 - an interactive command-line shell
 - a web service wrapper
 - a well-defined extension point for others
@@ -23,7 +24,7 @@ Commander doesn't have any special requirements, just start using the library.
 
 ## Getting Started
 
-Take a look at `com.willmeyer.commander.SampleApp' for the basic idea.
+Take a look at `com.willmeyer.commander.SampleApp` for the basic idea.
 
 
 
